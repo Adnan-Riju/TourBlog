@@ -1,0 +1,73 @@
+D:\Tour Blog\bin\Tour Blog.dll.config
+D:\Tour Blog\bin\Tour Blog.dll
+D:\Tour Blog\bin\Tour Blog.pdb
+D:\Tour Blog\bin\roslyn\csc.exe
+D:\Tour Blog\bin\roslyn\csc.exe.config
+D:\Tour Blog\bin\roslyn\csc.rsp
+D:\Tour Blog\bin\roslyn\csi.exe
+D:\Tour Blog\bin\roslyn\csi.exe.config
+D:\Tour Blog\bin\roslyn\csi.rsp
+D:\Tour Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tour Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tour Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tour Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tour Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tour Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tour Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tour Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tour Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tour Blog\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tour Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tour Blog\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tour Blog\bin\roslyn\System.AppContext.dll
+D:\Tour Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\Tour Blog\bin\roslyn\System.Console.dll
+D:\Tour Blog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tour Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tour Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tour Blog\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tour Blog\bin\roslyn\System.IO.Compression.dll
+D:\Tour Blog\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tour Blog\bin\roslyn\System.IO.FileSystem.dll
+D:\Tour Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tour Blog\bin\roslyn\System.Net.Http.dll
+D:\Tour Blog\bin\roslyn\System.Net.Sockets.dll
+D:\Tour Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tour Blog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tour Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tour Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tour Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tour Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tour Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tour Blog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tour Blog\bin\roslyn\System.ValueTuple.dll
+D:\Tour Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tour Blog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tour Blog\bin\roslyn\System.Xml.XPath.dll
+D:\Tour Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tour Blog\bin\roslyn\vbc.exe
+D:\Tour Blog\bin\roslyn\vbc.exe.config
+D:\Tour Blog\bin\roslyn\vbc.rsp
+D:\Tour Blog\bin\roslyn\VBCSCompiler.exe
+D:\Tour Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\Tour Blog\bin\BusinessLogicLayer.dll
+D:\Tour Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tour Blog\bin\Newtonsoft.Json.dll
+D:\Tour Blog\bin\System.Net.Http.Formatting.dll
+D:\Tour Blog\bin\System.Web.Http.dll
+D:\Tour Blog\bin\System.Web.Http.WebHost.dll
+D:\Tour Blog\bin\BusinessLogicLayer.pdb
+D:\Tour Blog\bin\Newtonsoft.Json.xml
+D:\Tour Blog\bin\System.Net.Http.Formatting.xml
+D:\Tour Blog\bin\System.Web.Http.xml
+D:\Tour Blog\bin\System.Web.Http.WebHost.xml
+D:\Tour Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tour Blog\obj\Debug\Tour Blog.csproj.AssemblyReference.cache
+D:\Tour Blog\obj\Debug\Tour Blog.csproj.CoreCompileInputs.cache
+D:\Tour Blog\obj\Debug\Tour Blog.csproj.CopyComplete
+D:\Tour Blog\obj\Debug\Tour Blog.dll
+D:\Tour Blog\obj\Debug\Tour Blog.pdb
+D:\Tour Blog\bin\EntityFramework.dll
+D:\Tour Blog\bin\EntityFramework.SqlServer.dll
+D:\Tour Blog\bin\EntityFramework.xml
+D:\Tour Blog\bin\EntityFramework.SqlServer.xml
